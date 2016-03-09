@@ -21,7 +21,7 @@ import ru.bisoft.socialservice.model.PersonDocument;
 import ru.bisoft.socialservice.model.PersonEducation;
 
 /*
- * ม่ํ
+ * ม่ํ111
  */
 public class XMLDataBean {
 	@EJB
